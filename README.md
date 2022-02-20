@@ -16,13 +16,13 @@ This project is a code refactor for the Horiseon website homepage.   The purpose
 
 ### Links
 
-[Link to the deployed website]( https://amir-hackett.github.io/Horiseon-Refactor/)
+[Link to the deployed website](https://amir-hackett.github.io/Horiseon-Refactor/)
 
 [Link to the code repository](https://github.com/Amir-Hackett/Horiseon-Refactor.git)
 
 ## Installation
 
-Upload index.html, license.txt, and assets folder to the deployed webserver.  The assets folder contains images and CSS files.
+Upload index.html and assets folder to the deployed webserver.  The assets folder contains images and CSS files.
 
 The deployed website linked above was deployed using GitHub Pages.
 
@@ -30,4 +30,4 @@ The deployed website linked above was deployed using GitHub Pages.
 
 Once deployed the application can be viewed in a traditional desktop web browser.  It it not yet optimized for smaller screens.
 
-![screenshot of index.html](./assets/Screen Shot 2022-02-20 at 11.26.01 AM.png) 
+![screenshot of index.html](./assets/images/Screen Shot.jpg)
