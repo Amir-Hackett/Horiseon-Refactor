@@ -30,8 +30,4 @@ The deployed website linked above was deployed using GitHub Pages.
 
 Once deployed the application can be viewed in a traditional desktop web browser.  It it not yet optimized for smaller screens.
 
-<<<<<<< HEAD
-![screenshot of index.html](./assets/images/Screen Shot.jpg)
-=======
-![screenshot of index.html](./assets/Screen Shot.png) 
->>>>>>> b1bdbbc94b76ad63bd8e4cf784fafe253aea23e1
+![screenshot of index.html](./assets/images/Screen-Shot.jpg)
