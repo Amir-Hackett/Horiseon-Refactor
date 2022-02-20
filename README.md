@@ -1,4 +1,4 @@
-# Horiseon-Refactor
+# Horiseon-Refactor Challenge
 
 ## Description
 
@@ -7,11 +7,8 @@ This project is a code refactor for the Horiseon website homepage.   The purpose
 ### Tasks completed
 * Redundant classes were consolidated
 * HTML elements were replaced with semantic HTML elements
-* Alt text was added to images
-* Explanatory comments were provided in the HTML document
-* CSS was reorganized to follow a logical structure
-    * Classes and elements were separated, then ordered alphabetically within each group
-    * Comments added to delineate each separation
+* CSS was reorganized to have less clutter
+* Classes and elements were separated
 * A descriptive title was added
 
 ### Links
