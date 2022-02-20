@@ -1,10 +1,10 @@
-# Horiseon-Refactor Challenge
+# Horiseon-Refactor Project
 
 ## Description
 
-This project is a code refactor for the Horiseon website homepage.   The purposes of this refactoring is to make the previous code more efficient, comprehensible and accessible.  This refactoring should also result in improved search engine optimization. The modification does not change the displayed styling of the page, only the underlying code.
+This project is a code refactor for the Horiseon homepage. The purposes of this refactoring is to make the code more efficient, comprehensible and accessible. The refactoring should also result in improved search engine optimization. The modification does not change the displayed styling of the page, only the underlying code.
 
-### Tasks completed
+### Tasks Completed
 * Redundant classes were consolidated
 * HTML elements were replaced with semantic HTML elements
 * CSS was reorganized to have less clutter
