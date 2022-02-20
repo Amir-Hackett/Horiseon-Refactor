@@ -30,14 +30,4 @@ The deployed website linked above was deployed using GitHub Pages.
 
 Once deployed the application can be viewed in a traditional desktop web browser.  It it not yet optimized for smaller screens.
 
-![screenshot of index.html](./assets/images/screenshot.png)
-
-## Credits
-Collaborators on this project included instructional staff, TAs, and students in the Georgia Tech Coding Boot Camp Winter 2020 cohort.  Specific guidance for adding the license badge and txt file was provided by Nathan Castaldi.
-
-### References and tutorials utilized
-* [https://www.w3schools.com/html/html5_semantic_elements.asp](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [https://www.youtube.com/watch?v=kGW8Al_cga4](https://www.youtube.com/watch?v=kGW8Al_cga4)
-* [http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
-* [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
-* [https://masteringmarkdown.com/](https://masteringmarkdown.com/)
+![screenshot of index.html[
